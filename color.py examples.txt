@@ -1,0 +1,5 @@
+some might need smth like :
+export PYTHONPATH=/path_to_caffe/python:$PYTHONPATH
+
+python color.py -i "imgs/Man With a Movie Camera_Scene23_7952.jpg" -o "imgs/Man With a Movie Camera_Scene23_7952_color.jpg"
+
